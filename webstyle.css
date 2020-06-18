@@ -1,0 +1,147 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  
+}
+
+#main-heading{
+  font-size: 52px;
+  color: #191a20;
+ font-weight: 900;
+  sans-serif: 
+  }
+#blo{
+ 
+        color: #fba70b
+}
+#para{
+  font-size: 17px;
+    color: #7a7a7a;
+ font-weight: 300;
+ line-height: 30px;
+  
+}
+.butst{
+  font-size: 14px;
+  border: 0px;
+  border-radius: 25px;
+    padding: 15px 25px;
+    background-color: #fba70b;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.butst:hover{
+   background-color: #f1556a;
+}
+#headingtab{
+  width: 100%;
+  box-shadow: 0px 2px 8px #ccc;
+  background-color: white;
+  
+  position: fixed;
+  
+  padding: 20px 52px;
+  
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  
+}
+.menu-items{
+  font-weight: 500;
+    font-size: 13px;
+  text-decoration: none;
+  color: #7a7a7a;
+  letter-spacing: 1px;
+  padding: 0px 12px;
+}
+
+.menu-items:hover {
+  color: #fba70b;
+}
+
+#logo {
+  color: #191a20;
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin: 0;
+}
+
+#shiftleft{
+  padding: 12% 8%;
+  background-image: url('https://lava-homepage.firebaseapp.com/assets/images/banner-bg.png');
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+.hyperlink {
+  text-decoration: none;
+}
+
+#second-section {
+  padding: 10%;
+}
+
+#feature-card-grid {
+  display: flex;
+}
+
+.feature-card {
+  box-shadow: 2px 2px 4px #ccc;
+  width: 33%;
+  padding: 60px 30px;
+  text-align: center;
+  margin: 0 12px;
+}
+
+.feature-card-heading {
+  margin-top: 0px;
+  font-size: 22px;
+  color: #1e1e1e;
+  margin-bottom: 25px;
+  font-weight: 500;
+}
+
+.feature-card-desc {
+  font-size: 15px;
+  line-height: 25px;
+  color: #888;
+  font-weight: 400;
+}
+
+.feature-card-btn {
+  background-color: #f4813f;
+}
+
+#third-section {
+  padding: 2% 30% 40%;
+}
+
+#feature-card-grid1 {
+  display: block;  
+   
+}
+
+.feature-card1 {
+  float: left;
+   width: 10%;
+  padding: 60px 30px;
+  text-align: right;
+  margin: 10px 12px;
+  margin-bottom: -50px;
+}
+
+.rightleft{
+  width: 100%;
+ padding: 70px 120px ;
+  margin: 0px 40px; 
+  margin-bottom: -50px;
+}
+
